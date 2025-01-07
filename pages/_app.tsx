@@ -5,6 +5,7 @@ import { useState } from "react";
 import { light } from "@/scss/MaterialTheme";
 import "../scss/app.scss";
 import "../scss/pc/main.scss";
+import "../scss/mobile/main.scss";
   // Global integration
 
 export default function App({ Component, pageProps }: AppProps) {
